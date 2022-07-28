@@ -1,6 +1,4 @@
 Hi there 👋 Im a Software engineer with a background in retail and beauty. Huge animal lover ready to make a change.<br/>
-
-
 😄 Pronouns: she her<br/>
 🔭 I’m currently working on Making a full stack protfolio website<br/>
 🌱 I’m currently learning how to build my own back end API<br/>
