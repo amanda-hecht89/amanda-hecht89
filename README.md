@@ -4,7 +4,12 @@ Hi there 👋 Im a Software engineer with a background in retail and beauty. Hug
 😄 Pronouns: she her<br/>
 🔭 I’m currently working on Making a full stack protfolio website<br/>
 🌱 I’m currently learning how to build my own back end API<br/>
-Fun fact: i have a freshwater and slatwater tank, as well as a turtle!
+Fun fact: i have a freshwater and slatwater tank, as well as a turtle!<br/><br/>
+LANGUAGES AND LIBRARIES:<br/>
+// JAVASCRIPT // REACT // CSS // HTML // POSTGRES // KEYFRAMES //<br/>
+MYSQL// SUPERTEST // MATERIAL UI // GITHUB // VSCODE // HEROKU<BR/>
+// EXPRESS // NETLIFY // POSTMAN // MIRO // BEEHIVE //
+
 
 
 <!--
