@@ -1,9 +1,9 @@
-Hi there 👋 Im a Software engineer with a background in retail and beauty. Huge animal lover ready to make a change.
+Hi there 👋 Im a Software engineer with a background in retail and beauty. Huge animal lover ready to make a change.<br/>
 
 
-😄 Pronouns: she her
-🔭 I’m currently working on Making a full stack protfolio website
-🌱 I’m currently learning how to build my own back end API
+😄 Pronouns: she her<br/>
+🔭 I’m currently working on Making a full stack protfolio website<br/>
+🌱 I’m currently learning how to build my own back end API<br/>
 Fun fact: i have a freshwater and slatwater tank, as well as a turtle!
 
 
