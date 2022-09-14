@@ -1,13 +1,17 @@
 Hi there 👋 Im a Software engineer with a background in retail and beauty. Huge animal lover ready to make a change.<br/>
 😄 Pronouns: she her<br/>
 🔭 I’m currently working on Making a full stack protfolio website<br/>
-🌱 I’m currently learning how to build my own back end API<br/>
+🌱 I’m currently learning how to build my own backend and advanced React<br/>
 Fun fact: i have a freshwater and slatwater tank, as well as a turtle!<br/><br/>
 LANGUAGES AND LIBRARIES:<br/>
 // JAVASCRIPT // REACT // CSS // HTML // POSTGRES // KEYFRAMES //<br/>
 MYSQL// SUPERTEST // MATERIAL UI // GITHUB // VSCODE // HEROKU<BR/>
 // EXPRESS // NETLIFY // POSTMAN // MIRO // BEEHIVE // <br/>
-NODE.JS // APIs // JEST
+NODE.JS // APIs // JEST<br/>
+DEV PRACTICES:<br/>
+TDD // DDD pairing // MOB programming<br/>
+
+
 
 
 
