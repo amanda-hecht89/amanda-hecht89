@@ -7,7 +7,7 @@ LANGUAGES AND LIBRARIES:<br/>
 // JAVASCRIPT // REACT // CSS // HTML // POSTGRES // KEYFRAMES //<br/>
 MYSQL// SUPERTEST // MATERIAL UI // GITHUB // VSCODE // HEROKU<BR/>
 // EXPRESS // NETLIFY // POSTMAN // MIRO // BEEHIVE // <br/>
-NODE.JS // APIs // JEST<br/>
+NODE.JS // APIs // JEST<br/><br/>
 DEV PRACTICES:<br/>
 TDD // DDD pairing // MOB programming<br/>
 
